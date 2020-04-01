@@ -2,8 +2,6 @@
 
 #### Functional Programing with JS
 
-#### By _**Supriya**_
-
 ## Description:
 
 This project is built using Recursion and closure.
